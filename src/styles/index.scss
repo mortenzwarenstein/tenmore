@@ -1,0 +1,9 @@
+.container{
+  background-color: green;
+  max-width: 1200px;
+  margin: 0 auto;
+  @media screen and (max-width: 1200px){
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
